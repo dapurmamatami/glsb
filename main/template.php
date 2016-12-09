@@ -183,6 +183,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 
                 <li><a href="../announcement/index.php?view=add">New Announcement</a></li>
                 <li><a href="../announcement/index.php?view=list">Announcement Listing</a></li>
+                <li><a href="../announcement/index.php?view=list">Testing Announcement Listing (GitHub)</a></li>
                 <li><a href="../wallet/index.php?view=listEWalletAdjustment">E-Wallet Adjustment</a></li>
                 <!--
                 <li><a href="../email/index.php?view=add">New Send Email</a></li>
