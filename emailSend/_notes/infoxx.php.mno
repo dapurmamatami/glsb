@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetMessageTemplate" value="name:message_id;datatype:int,name:message_subject;datatype:string,name:message_content;datatype:string,name:message_footer;datatype:string,name:created_by;datatype:int,name:created_date;datatype:datetime,name:modify_by;datatype:int,name:modify_date;datatype:datetime" />
+</info>
